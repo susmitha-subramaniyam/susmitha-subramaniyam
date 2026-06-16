@@ -3,10 +3,10 @@
 
 **susmitha-subramaniyam/susmitha-subramaniyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Susmitha%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Susmitha%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Learning%20today%2C%20leading%20tomorrow" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Learning%20today%2C%20Leading%20tomorrow" alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -19,10 +19,10 @@
 
 ## 📌 About Me
 - B.E Electronics and Communication Engineering (ECE) Student
-- Passionate about Web Development, MERN Stack, and Full Stack Development.
+- Passionate about Web Development and Full Stack Development.
 - Currently developing a Login System project using modern web technologies.
-- Continuously improving my skills in Java, JavaScript, and MERN Stack.
-- Aspiring MERN Stack Developer aiming to build innovative and user-friendly web applications.
+- Continuously improving my skills in Java, JavaScript, and Full Stack Development.
+- Aspiring Full Stack Developer aiming to build innovative and user-friendly web applications.
 
 
 ## 🧠 My Focus Areas
@@ -32,15 +32,15 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/susmitha-subramaniyam">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=susmitha-subramaniyam&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="susmitha-subramaniyam's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=susmitha-subramaniyam&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="susmitha-subramaniyam's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=susmitha-subramaniyam&theme=dark&hide_border=true&cache_seconds=86400" alt="susmitha-subramaniyam's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=susmitha-subramaniyam&theme=radical&hide_border=true&cache_seconds=86400" alt="susmitha-subramaniyam's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=susmitha-subramaniyam&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Susmitha S's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=susmitha-subramaniyam&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Susmitha S's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=susmitha-subramaniyam&theme=dark&radius=10" alt="susmitha-subramaniyam's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=susmitha-subramaniyam&theme=radical&radius=10" alt="susmitha-subramaniyam's Activity Graph" />
 </p>
 
 
@@ -87,7 +87,7 @@
 
 <p align="center">
   <a href="https://github.com/susmitha-subramaniyam">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=susmitha-subramaniyam&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=susmitha-subramaniyam&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -98,18 +98,11 @@
   <a href="https://wa.me/916382683233"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
 
 
 
